@@ -35,21 +35,16 @@ Tracked how total revenue accumulated over time to understand long-term performa
 🔍 Best-Selling Pizzas in Each Category
 Ranked the top 3 best-selling pizzas within each category to highlight customer preferences.
 
+
 🛠️ Tools Used
 SQL for querying and data analysis
-
 PostgreSQL database (compatible with other SQL dialects)
-
 Schema design included for basic understanding
 
 📚 Learning Outcome
 Through this project, I improved my SQL skills in:
-
 Joins and aggregations
-
 Subqueries and window functions
-
 Data grouping and ranking
-
 Real-world business logic modeling
 
