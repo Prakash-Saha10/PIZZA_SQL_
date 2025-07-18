@@ -36,10 +36,9 @@ Tracked how total revenue accumulated over time to understand long-term performa
 Ranked the top 3 best-selling pizzas within each category to highlight customer preferences.
 
 
-🛠️ Tools Used
-SQL for querying and data analysis
-PostgreSQL database (compatible with other SQL dialects)
-Schema design included for basic understanding
+🛠️ Tools Used SQL for querying and data analysis:
+1.PostgreSQL database (compatible with other SQL dialects)
+2.Schema design included for basic understanding
 
 📚 Learning Outcome
 Through this project, I improved my SQL skills in:
